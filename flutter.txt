@@ -1,0 +1,2 @@
+keytool -list -v -keystore "C:\Users\shakeer\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
